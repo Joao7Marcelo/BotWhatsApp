@@ -1,0 +1,10 @@
+
+Install Selenium on your machine using any terminal!!!
+
+_________________________________________________________________________________________________________________________________
+
+Replace the code properties with the new ones from the WhatsApp web page using the developer tool present in the Browser settings
+
+_________________________________________________________________________________________________________________________________
+
+Run the code in your text editor's terminal
